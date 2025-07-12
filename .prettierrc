@@ -1,0 +1,7 @@
+{
+    "singleQuote": false,
+    "bacrakit": true,
+    "tapwidth": 2,
+    "trailingComma":"es5",
+    "semi": true
+}
